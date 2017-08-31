@@ -24,10 +24,8 @@
       郑州大学自然语言处理实验室
             http://nlp.zzu.edu.cn/
 #### 港澳台地区：
-      Human Language Technology Center  at Hong Kong University of Science & Technology 
-            http://www.cse.ust.hk/~hltc/
-      Natural Language Processing Lab at National Taiwan University
-           http://nlg.csie.ntu.edu.tw/
+      Hong Kong University of Science & Technology: http://www.cse.ust.hk/~hltc/
+      National Taiwan University : http://nlg.csie.ntu.edu.tw/
 ## 自然语言处理--国内--工业界
       百度：百度自然语言处理部，度秘事业部，大搜索体系下，公司较为核心的部门。
       搜狗公司
@@ -69,17 +67,17 @@
       Natural Language Processing Lab at Bar-Ilan University: http://u.cs.biu.ac.il/~nlp/
       The University of Melbourne NLP Group: http://hum.csse.unimelb.edu.au/nlp-group/
 ## 自然语言处理--国外--工业界 
-Google
-IBM Research
-Facebook
-Microsoft
-Amazon
-bloomberg
-Nuance
-Apple
-SAMSUNG
-ebay
-Yandex
-grammarly
-voicebox
+      Google
+      IBM Research
+      Facebook
+      Microsoft
+      Amazon
+      bloomberg
+      Nuance
+      Apple
+      SAMSUNG
+      ebay
+      Yandex
+      grammarly
+      voicebox
 
