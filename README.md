@@ -21,8 +21,6 @@
             http://nlp.suda.edu.cn/
       厦门大学智能科学与技术系自然语言处理实验室
             http://nlp.xmu.edu.cn/
-      郑州大学自然语言处理实验室
-            http://nlp.zzu.edu.cn/
 #### 港澳台地区：
       Hong Kong University of Science & Technology: http://www.cse.ust.hk/~hltc/
       National Taiwan University : http://nlg.csie.ntu.edu.tw/
