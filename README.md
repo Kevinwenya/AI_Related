@@ -29,17 +29,17 @@
       Natural Language Processing Lab at National Taiwan University
            http://nlg.csie.ntu.edu.tw/
 ## 自然语言处理--国内--工业界
-      百度：百度自然语言处理部，度秘事业部，大搜索体系下，公司较为核心的部门。
-      搜狗公司
+      百度：百度自然语言处理部，度秘事业部，大搜索体系下，公司较为核心的部门。
+      搜狗公司
       科大讯飞
       微软亚洲研究院自然语言计算组
-      华为诺亚方舟实验室
-      头条实验室
-      小i机器人
-      思必驰
-      玻森
-      腾讯
-      阿里巴巴
+      华为诺亚方舟实验室
+      头条实验室
+      小i机器人
+      思必驰
+      玻森
+      腾讯
+      阿里巴巴
       360
       CVTE
 ## 自然语言处理--国外--学术界 
@@ -69,17 +69,17 @@
       Natural Language Processing Lab at Bar-Ilan University: http://u.cs.biu.ac.il/~nlp/
       The University of Melbourne NLP Group: http://hum.csse.unimelb.edu.au/nlp-group/
 ## 自然语言处理--国外--工业界 
-      Google
-      IBM Research
-      Facebook
-      Microsoft
-      Amazon
-      bloomberg
-      Nuance
-      Apple
-      SAMSUNG
-      ebay
-      Yandex
-      grammarly
-      voicebox
+Google
+IBM Research
+Facebook
+Microsoft
+Amazon
+bloomberg
+Nuance
+Apple
+SAMSUNG
+ebay
+Yandex
+grammarly
+voicebox
 
